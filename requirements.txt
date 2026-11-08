@@ -1,0 +1,7 @@
+# Figures from saved data (notebook 03): any OS
+numpy>=1.26
+matplotlib>=3.8
+seaborn>=0.13
+imageio>=2.34
+pillow>=10.0
+jupyterlab

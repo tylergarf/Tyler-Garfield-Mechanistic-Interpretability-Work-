@@ -1,0 +1,7 @@
+The following dictionary describes yearly passenger trends for a airliner 
+
+[{'year': 1949, 'sum': 1520, 'mean': 126.66666666666667}, {'year': 1950, 'sum': 1676, 'mean': 139.66666666666666}, {'year': 1951, 'sum': 2042, 'mean': 170.16666666666666}, {'year': 1952, 'sum': 2364, 'mean': 197.0}, {'year': 1953, 'sum': 2700, 'mean': 225.0}, {'year': 1954, 'sum': 2867, 'mean': 238.91666666666666}, {'year': 1955, 'sum': 3408, 'mean': 284.0}, {'year': 1956, 'sum': 3939, 'mean': 328.25}, {'year': 1957, 'sum': 4421, 'mean': 368.4166666666667}, {'year': 1958, 'sum': 4572, 'mean': 381.0}, {'year': 1959, 'sum': 5140, 'mean': 428.3333333333333}, {'year': 1960, 'sum': 5714, 'mean': 476.1666666666667}]
+
+Analyze this trend and output a informative summary:
+
+

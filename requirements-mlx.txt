@@ -1,0 +1,5 @@
+# Model runs (notebooks 01-02): Apple Silicon only
+-r requirements.txt
+mlx>=0.18
+mlx-lm>=0.19
+tqdm

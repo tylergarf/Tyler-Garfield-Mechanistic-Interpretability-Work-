@@ -1,0 +1,26 @@
+        tracks: [ |{passengers_by_year}| ]
+
+        <g n="1949"> [-----] </g>
+        <g n="1950"> [-----] </g>
+        <g n="1951"> [----] </g>
+        <g n="1952"> [---] </g>
+        <g n="1953"> [---] </g>
+        <g n="1954"> [*] </g>
+        <g n="1955"> [*] </g>
+        <g n="1956"> [+++] </g>
+        <g n="1957"> [++++] </g>
+        <g n="1958"> [++++] </g>
+        <g n="1959"> [++++++++] </g>
+        <g n="1960"> [++++++++] </g>
+
+
+Generate me a detailed report based upon the encoded data, '*' represents a value for that year close
+to the global median. Values such as [-----] are below the global median and values such as [+++] are above the global
+median. The encoding ordering is as follows "--------","-----","----","---","*","+++","++++","+++++","++++++++".
+Generate a concise and informative report that derives meaningful insights from this trend. You are not to
+merely repeat the exact symbols in your analysis.  For context, this 
+trend is for yearly passenger data on a major airline.
+
+output:
+
+
